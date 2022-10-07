@@ -47,7 +47,7 @@ function App() {
         </div>
       </div>
       <div className="footer">
-        <p className="text-black">Made with ❤️ by Kirtan</p>
+        <p className="text-black">Made with ❤️ by Kirtan Chandak</p>
       </div>
     </div>
   );
